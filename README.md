@@ -15,7 +15,7 @@ Features
 ->Attendance Reports: Generates comprehensive attendance reports, simplifying record-keeping and analysis.
 
 Technologies Used:-
-Frontend: HTML, Flask
+Frontend: HTML
 Backend: Python, Flask
 Facial Recognition: OpenCV, Dlib
 Machine Learning: scikit-learn
